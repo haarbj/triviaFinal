@@ -10,18 +10,18 @@ Time spent: **10** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] User can view and answer at least 5 trivia questions.
-- [ ] App retrieves question data from the Open Trivia Database API.
-- [ ] Fetch a different set of questions if the user indicates they would like to reset the game.
-- [ ] Users can see score after submitting all questions.
-- [ ] True or False questions only have two options.
+- [X] User can view and answer at least 5 trivia questions.
+- [X] App retrieves question data from the Open Trivia Database API.
+- [X] Fetch a different set of questions if the user indicates they would like to reset the game.
+- [X] Users can see score after submitting all questions.
+- [X] True or False questions only have two options.
 
 
 The following **optional** features are implemented:
 
   
 - [ ] Allow the user to choose a specific category of questions.
-- [ ] Provide the user feedback on whether each question was correct before navigating to the next.
+- [X] Provide the user feedback on whether each question was correct before navigating to the next.
 
 The following **additional** features are implemented:
 
@@ -30,16 +30,16 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 <div>
-    <a href="https://www.loom.com/share/e77b796218f246a28cbee81ecaec5b7c">
+    <a href="https://www.loom.com/share/c6885594a0644c88bef567e41c6e921a">
     </a>
-    <a href="https://www.loom.com/share/e77b796218f246a28cbee81ecaec5b7c">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/e77b796218f246a28cbee81ecaec5b7c-with-play.gif">
+    <a href="https://www.loom.com/share/c6885594a0644c88bef567e41c6e921a">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/c6885594a0644c88bef567e41c6e921a-with-play.gif">
     </a>
   </div>
 
 ## Notes
 
-The biggest challenges were the constraints and coding the part to change the questions randomly.
+The biggest challenges were figuring out the context of the project since the lab (our only reference) was weather instead of trivia questions.
 
 ## License
 

@@ -1,10 +1,8 @@
-# Project 4 - *Trivia*
+# *Trivia*
 
-Submitted by: **Brody Haar**
+Created by: **Brody Haar**
 
 **Trivia** is an app that asks questions with their assigned categories
-
-Time spent: **10** hours spent in total
 
 ## Required Features
 
@@ -19,13 +17,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-  
-- [ ] Allow the user to choose a specific category of questions.
 - [X] Provide the user feedback on whether each question was correct before navigating to the next.
-
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
